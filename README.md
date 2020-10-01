@@ -42,7 +42,7 @@ Conclusions
 
 **불필요한 Batch Normalization을 제거**
 **메모리 획득과, 획득된 메모리를 사용하여 깊은 네트워크 사용**
-**학습 능률을 위한 Geometric self-ensemble사용 **
+**학습 능률을 위한 Geometric self-ensemble사용**
 **EDSR,MDSR 두 네트워크 모두 많은  parameter를 이용하였고, 그 결과 SRResNet에 비해 더 좋은 성능을 보여줌**
 **하나의 스케일을 사용하는 EDSR, 다양한 스케일을 사용하는 MDSR**
 
